@@ -1,0 +1,37 @@
+.main {
+    font-size: 16px;
+    padding: 30px;
+}
+
+.month_year select {
+    padding: 15px 30px;
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+.calender {
+    min-height: 200px;
+    max-width: 400px;
+    border: 1px solid black;
+    margin: 30px 0;
+}
+
+
+.date-form input {
+    padding: 15px;
+    border-radius: 0;
+    outline: none;
+    border: 1px solid #444;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.date-form button {
+    padding: 15px;
+    background: cornflowerblue;
+    color: #fff;
+    outline: none;
+    font-size: 16px;
+    border: none;
+    vertical-align: middle;
+}
